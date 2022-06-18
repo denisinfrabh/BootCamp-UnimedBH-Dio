@@ -3,6 +3,6 @@
 ##Repositório para os exercícios do bootcamp.
 
 
-Os exercicios estao separados por pastas de acordo com os modulos.
+Pastas relacionadas aos exercicios e desafios.
 
 
