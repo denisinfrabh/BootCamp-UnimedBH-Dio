@@ -2,8 +2,9 @@
 
 ##Repositório para os exercícios do bootcamp.
 
-
 _Os exercicios estao separados por pastas de acordo com os modulos._
+
+Pastas relacionadas aos exercicios e desafios.
 
 Módulo I - Princípios de Desenvolvimento de Software
 
